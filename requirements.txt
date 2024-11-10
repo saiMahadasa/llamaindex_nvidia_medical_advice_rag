@@ -1,0 +1,12 @@
+llama-index
+openai
+pypdf
+python-dotenv
+streamlit
+llama-index-embeddings-nvidia
+llama-index-llms-nvidia
+llama-index-core
+llama-index-postprocessor-nvidia-rerank
+llama-index-readers-file
+llama-parse
+llama-index-llms-openai
