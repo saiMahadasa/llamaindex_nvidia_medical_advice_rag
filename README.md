@@ -12,7 +12,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** system designed to pr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/saiMahadasa/llamaindex_nvidia_medical_advice_rag.git
+git clone git@github.com:saiMahadasa/llamaindex_nvidia_medical_advice_rag.git
 cd healthcare_rag
 
 ###Create a .env file in the project directory and add your NVIDIA API key:
