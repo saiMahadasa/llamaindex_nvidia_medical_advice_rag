@@ -10,7 +10,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** system designed to pr
 
 ## How to Run the Project
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone git@github.com:saiMahadasa/llamaindex_nvidia_medical_advice_rag.git
 cd healthcare_rag
